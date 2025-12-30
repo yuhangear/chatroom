@@ -14,3 +14,4 @@ window.APP_CONFIG = {
   useSecure: true
 };
 
+
